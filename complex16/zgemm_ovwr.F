@@ -96,7 +96,7 @@ c
       integer i,j,l,iblk,jblk,lblk
       complex*16 CC(blksz,blksz)
       double precision BB(blksz,blksz),btmp
-      common/BBcom/BB,CC
+ 
       logical lsame
       external lsame
 
