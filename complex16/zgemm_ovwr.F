@@ -97,7 +97,9 @@ c
       complex*16 CC(blksz,blksz)
       double precision BB(blksz,blksz),btmp
 
+c
 c     common/BBcom/BB,CC
+c
 
       logical lsame
       external lsame
